@@ -30,5 +30,13 @@
   {
     "id": "pepe",
     "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/PEPE.png"
+  },
+  {
+    "id": "luck",
+    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/luck.png"
+  },
+  {
+    "id": "pokr",
+    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/pokr.png"
   }
 ]
