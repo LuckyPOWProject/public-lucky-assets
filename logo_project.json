@@ -1,42 +1,45 @@
-[
-  {
-    "id": "$777",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/$777.png"
-  },
-  {
-    "id": "clvr",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/CLVR.png"
-  },
-  {
-    "id": "crim",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/CRIM.png"
-  },
-  {
-    "id": "fund",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/FUND.png"
-  },
-  {
-    "id": "luki",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/LUKI.png"
-  },
-  {
-    "id": "mlky",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/MLKY.png"
-  },
-  {
-    "id": "neko",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/NEKO.png"
-  },
-  {
-    "id": "pepe",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/PEPE.png"
-  },
-  {
-    "id": "luck",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/luck.png"
-  },
-  {
-    "id": "pokr",
-    "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/pokr.png"
-  }
+[{
+        "id": "$777",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/$777.png"
+    },
+    {
+        "id": "clvr",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/CLVR.png"
+    },
+    {
+        "id": "crim",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/CRIM.png"
+    },
+    {
+        "id": "fund",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/FUND.png"
+    },
+    {
+        "id": "luki",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/LUKI.png"
+    },
+    {
+        "id": "mlky",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/MLKY.png"
+    },
+    {
+        "id": "neko",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/NEKO.png"
+    },
+    {
+        "id": "pepe",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/PEPE.png"
+    },
+    {
+        "id": "luck",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/luck.png"
+    },
+    {
+        "id": "pokr",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/pokr.png"
+    },
+    {
+        "id": "luckyc",
+        "logo_src": "https://luckypowproject.github.io/public-lucky-assets/images/luckyc.png"
+    }
 ]
